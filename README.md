@@ -1,4 +1,4 @@
-#Login & Registration System
+# Login & Registration System
 
 A basic PHP login and registration system for practice purposes.
 
